@@ -1,0 +1,193 @@
+1. What is time sharing in an operating system?
+	
+	Time sharing refers to the allocation of computer resources in time slots(time slices) to several programs simultaneously.
+
+
+2. What is the symbol for the root directory in a UNIX/Linux filesystem?
+
+	"/".
+
+
+3. Which symbol is used as a separator in a filepath?
+
+	"/" in linux, "\" in windows.
+
+
+
+4. What are the two types of filepaths in a Linux filesystem? How do they differ from each other?
+	
+	Absolute Path: Path reference is from the root directory.
+
+	Relative Path: Path reference is from the current directory.
+
+
+5. Which symbol is used to represent the following: home directory, current directory, and parent directory, home directory of a user named user1
+
+	Home directory: "/home/user"
+	Current directory: .
+	Parent directory: ..
+	home directory of a user named user1: "/home"
+
+6. Write a command to do the following:
+	a. list all the files ending with .txt
+		$ ls *.txt	
+
+	b. count the words and lines in a file
+		$ wc -lw filename
+
+	c. find and replace all occurrences of ‘foo’ with ‘bar’ (case insensitive)
+		$ sed -i "s/foo/bar/gI" filename
+
+	d. find and replace all occurrences of only ‘Foo’ with ‘bar’ (case sensitive)
+		$ sed -i "s/Foo/bar/g" filename
+
+	e. Concatenate multiple text files (foo_*.txt) into a file foo.txt
+		$ cat foo_*.txt >> foo.txt
+
+7. Can you create a file name ‘*’ (a single asterix character is the filename)? If so, write the command to do it, and also write the command to delete the file? If not, why not?
+	$ touch \*
+	$ rm \*
+
+8. What is the absolute path of the file that has the initial configurations of a Bash shell stored? (include the filename in the filepath as well)
+	/home/user/.bashrc
+
+9. What does the environment variable PATH hold?
+	The environment PATH variable stores the list of paths of executables on the 	device.	
+
+10. How do you run a program named hello through Linux Terminal?
+	$ ./hello
+
+11. Under what circumstances do you get a “command not found” error when you run a
+program?
+
+	If the path of the executable(having the name of the command) is not found in the PATH variable then we get the "command not found" error.
+
+12. Explain the file permissions seen in the output of the command ls -l?
+	r(4) , w(2) , e(1)
+
+13. Write a command to append the string “Hello CS3010” to an existing file named
+strings.out
+	$ echo “Hello CS3010” >> strings.out	
+
+
+14. Write a command to run the program named hello (present in the current directory) to
+redirect error messages to a file named hello.err
+
+	$ ./hello 2> hello.err
+
+15. Write a command to run the program named hello (present in the current directory) to
+redirect its outputs and error messages to a file named hello.log
+	
+	$ ./hello &> hello.log
+	
+
+16. Write a command to run the program named hello (present in the current directory),
+and redirect its output to hello.out, and error messages thrown by the program to a
+file named hello.err
+	
+	$ ./hello > hello.out 2> hello.er
+
+17. Write a command to run the program named hello (present in the current directory),
+and send its output as inputs to the program /bin/wc. The final output should be the
+count of the number of lines of output printed by the hello
+
+	$ ./hello | /bin/wc -l
+
+
+18. Write a command to write the list of files in a directory to a file named files.txt.
+Example output:
+files.txt
+============
+Desktop
+Documents
+Downloads
+hello
+hello.c
+Notes.txt
+
+	$ ls > files.txt
+
+
+
+19. Write a command to list all the C source files (names with extension .c) in the current directory and all its sub-directories.
+
+	$ find . -name "*.c"
+
+20. Write a command to delete all blank lines in a file (using sed).
+
+	$ sed -i "/^$/d" filename
+
+21. Write a command to count all lines that end with ‘;’ in a file.
+
+	$ grep ";$" hello.txt | wc -l
+
+
+22. What is the difference between AT&T syntax and Intel syntax when writing x86
+assembly?
+	
+	
+23. How many general-purpose registers are supported by x86 (32-bit architecture)? What
+are their names?
+	8 GPR's.
+	EAX, EBX, ECX, EDX, ESP, EBP, EDI, ESI
+
+
+24. How many general-purpose registers are supported by x86_64 (64-bit architecture)?
+What are their names?
+
+
+25. What does the register %eip hold?
+	Program counter
+
+26. What is the register %esp used for?
+	Used for storing the address of the current position of stack pointer in the memory.
+
+27. What is the register %esi, and %edi used for?
+28. List all the segment registers in x86, and the corresponding segments that each of them point to?
+
+
+29. What are the three operating modes of a IA 32 PC compatible, x86 processor?
+
+	Real Address Mode
+	Protected Mode
+	System Management Mode
+
+
+30. Write the x86_64 (or x64) assembly code to evaluate the expression,
+A = B * C / D - E
+Assume A is allocated in %rax, B in %rbx, C in %rcx, D in %rdx, and E in %r8.
+Note: Refer to the following cheat sheet if required.
+https://cs.brown.edu/courses/cs033/docs/guides/x64_cheatsheet.pdf
+
+31. What is the difference between linear addresses and segmented addresses in x86
+architecture (IA32 PC architecture)?
+	
+	
+ A segment selector is a special pointer that identifies a segment in memory
+
+The 32-bit EFLAGS register contains a group of status flags, a control flag, and a group of system flags.
+
+
+
+32. Consider the two csv files, and their contents given below:
+Lectures.csv Labs.csv
+============ =========
+Student1,CS3010,23 Student1,CS3110,93
+Student2,CS3010,39 Student2,CS3110,100
+Student3,CS3010,12 Student3,CS3110,32
+Student1,CS3030,40 Student1,CS3130,85
+Student2,CS3030,30 Student2,CS3130,76
+Student3,CS3030,40 Student3,CS3130,50
+Student1,CS3050,15
+Student2,CS3050,25
+Student3,CS3050,35
+The first column in each of these files contain names of students, the second column
+contains the subject, and the third column contains their marks in the corresponding
+subjects.
+Write a BASH shell script that collates the marks of each student into a single row. The
+output file should also have a header indicating the subject code as the column header.
+Use the | operator where possible. The script should also use BASH shell functions
+(discussed in the tutorial shared on Moodle) where possible. Example output is below:
+Name,CS3010,CS3030,CS3050,CS3110,CS3110
+Student1,23,40,15,93,85
+Student2,39,30,25,100,76
