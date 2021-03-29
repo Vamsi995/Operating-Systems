@@ -1,0 +1,213 @@
+
+Answers
+
+1. What are the different methods through which Operating Systems support Inter-process
+communication? Briefly explain the advantages and limitations of each method.
+
+	i) Shared Memory
+		
+		One of the processes creates a shared memory section in RAM which the other process can access. 
+
+		Adv: Communication is very fast. No system calls required.
+		
+		Limitation: Needs Synchronization. Highly error prone.
+
+
+	ii) Message Passing
+
+		In this case the shared memory is created in the kernel. 'send', 'receive' system calls are used for communication. (Each send must have a receive). Message passing can be two way communication with the help of pipes.
+
+
+		Adv: Sharing is explicit as both the processes need kernel support, less error prone since kernal manages the sharing.
+		
+		Limitation: It is slow since each call involves marshalling/demarshalling of information and also since we know that system calls involve some overheads.
+
+
+		Example: The use of Pipes.
+
+
+	iii) Signals
+		
+
+		Asynchronous unidirectional communication between processes. 
+		Send a signal to a process -> kill(pid, signum)
+		For a process to handle this signal, the process should have a signal handler
+		sighandler_tsignal(signum, handler)
+		
+		Adv:
+
+		Limitations:
+
+
+2. What is a race condition? How is it related to critical sections?
+
+	A race condition is a situation where several processes access and manipulate the same data. The part of the process that accesses the shared data is called critical section. In order to prevent race conditions, these critical sections of the processes must be synchronized.
+
+
+
+3. What are criterions to be followed inorder to resolve the critical section problems.
+
+
+	i) Mututal Exclusion:
+
+	ii) Progress: 
+	
+	iii) Bounded Wait:
+
+
+4. How are lock and unlock mechanisms can be used for synchronization?
+
+
+	When a process calls lock, it makes sure that the shared memory is locked and no other process can access it. And after the execution of the critical section the process calls unlock to remove the lock on the shared data. This way synchronization is maintained as when a process calls lock on the shared data, no other process can access it until the calling process calls an unlock.
+
+
+5. Explain Bakery algorithm for synchronization.
+
+
+	The Bakery algorithm solves the synchronization problem for more than two processes. It initializes two arrays of size n where n is the number of processes. One array is of boolean type (choosing) and the other array is of type int (num). lock(i) function is called before the critical section where the argument i is the process's index. lock(i) calculates the max of all the numbers in the num array and adds 1 to it and stores it inside the num[i]. And now a loop is run over the array and the process with the least non zero number in the num array is chosen to execute its critical section. After the critical section the unlock(i) function sets num[i] to zero.
+
+
+6. Briefly explain how this code helps in resolving critical section problem
+while(1)
+{
+while(test_and_set(&lock)==1);
+// critical section
+lock = 0;
+}
+
+	The hardware ensure that when test_and_set executes at the same time called by two different CPU's then it executes the first one storing 0 and setting lock to 1. And after the first one is complete, it executes the second one and stores 1 and sets the lock to 1 and hence the second process keeps looping until the lock is set to 0 by the first process.
+
+
+
+
+7. Briefly explain the Thundering Herd problem and how can it be solved in a Mutex
+construction?
+
+	Thundering Herd Problem occurs when a large number of processes executing the lock and in this only one process gets to execute it because of the atomic nature of xchg and the remaining proceses go to sleep. And once the process which successfully executed lock calls the unlock, the wakeup() call will switch all the states of the sleeping processes to ready. Again this repeates all but once process gets to execute its critical section and the remainging processes go to sleep. This leads to a large number of context switches and could lead to starvation. 
+
+	Solution:
+
+		1. When the process hits the else block in the lock function, instead of directly putting it to sleep, push it into the queue and then put the process to sleep.
+			
+		2. When performing the unlock function, remove once process from the queue and wake up only this process.
+
+
+8. What happens when a high priority task is requesting for accessing the critical section
+and a low priority task is now executing in the critical section? How priority is handled ?
+
+	
+	A possible solution is by priority inheritence i.e the low priority task's priority is escalated. This means that the priority of the low priority task becomes equal to that of the high priority. The low priority task would execute with this high priority until it finishes the critical section.
+
+
+
+
+9. 22
+
+10. shmctl() is used to alter the permissions and other characteristics of a shared memory segment. It is prototyped as follows:
+
+int shmctl(int shmid, int cmd, struct shmid_ds *buf);
+
+The process must have an effective shmid of owner, creator or superuser to perform this command. The cmd argument is one of following control commands:
+
+SHM_LOCK
+-- Lock the specified shared memory segment in memory. The process must have the effective ID of superuser to perform this command.
+SHM_UNLOCK
+-- Unlock the shared memory segment. The process must have the effective ID of superuser to perform this command.
+IPC_STAT
+-- Return the status information contained in the control structure and place it in the buffer pointed to by buf. The process must have read permission on the segment to perform this command.
+IPC_SET
+-- Set the effective user and group identification and access permissions. The process must have an effective ID of owner, creator or superuser to perform this command.
+IPC_RMID
+-- Remove the shared memory segment.
+The buf is a sructure of type struct shmid_ds which is defined in <sys/shm.h>
+
+The following code illustrates shmctl():
+
+#include <sys/types.h>
+#include <sys/ipc.h>
+#include <sys/shm.h>
+
+...
+
+int cmd; /* command code for shmctl() */
+int shmid; /* segment ID */
+struct shmid_ds shmid_ds; /* shared memory data structure to 
+                             hold results */ 
+...
+
+shmid = ...
+cmd = ...
+if ((rtrn = shmctl(shmid, cmd, shmid_ds)) == -1) {
+    perror("shmctl: shmctl failed");
+    exit(1);
+   }
+...
+
+
+
+
+
+
+
+
+12. Explain how xchg instruction of the x86 ISA helps in synchronization
+
+	xchg is an atomic instruction that takes two parameters a memory address and an integer value.  The value obtained from dereferencing the memory location is stored temporarily and then the new value passed is stored inside this memory location and the temporarily stored value is returned. This achieves storing a registrer variable inside a memory location. Intel hardware ensures that xchg instruction is executed atomically.
+
+	xchg is used in two functions called acquire(used for locking) and release(used for unlocking). In the acquire function (xchg(locked, 1) == 0) condition ensures that the while loop keeps running if the value at locked is 1 and it breaks if the value at locked is 0. (here 'locked' is a memory location).
+
+	
+
+13. What are the issues to consider when spinlocks are used for synchronization?
+	
+
+	Issues with xchg instruction
+
+	1. No compiler optimizations should be allowed.
+		--  should not make X a register variable as in this case we are just exchanging data between registers which will not solve the purpose.
+			-- Write the loop in assembly or use volatile.
+	
+
+	2. The CPU should not reorder memory loads and stores.
+		-- Inorder to achieve this use serialized instructions (which forces instructions not to be reordered).
+		-- We need not worry about this as xchg instruction already implements serialization.
+
+
+
+	3. Value at X should not be cached (i.e the memory read and write should go directly to the RAM). All xchg operations are bus transactions. CPU asserts the LOCK, to inform that there is a locked memory access and hence this ensures that no other CPU can access X.
+
+	4. Acquire function in spinlock invokes xchg in a loop, and hence for each operation there is a memory access into the RAM, which introduces huge performance hits. 
+
+
+
+
+14. Mutual Exclusion
+
+
+
+
+
+15. Progress
+
+16. Mutual Exclusion
+
+
+*
+23. Spinlocks are intended to provide bounded wait_____ only.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+

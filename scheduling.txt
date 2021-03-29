@@ -1,0 +1,80 @@
+Answers
+
+*
+1. Because IO bound processes require user interaction and if these processes are not executed first then the user experience will degrade. The disadvantage is that IO bound processes run on longer time slices and hence can sometimes lead to starvation of CPU bound processes.
+
+	 Will using a CPU with a large cache result in the operating system classify a process
+as CPU bound instead of I/O bound? Why or why not?
+
+
+2. In a non-preemptive system, the scheduler waits for a running process to explicitly block, terminate or yield. In a preemptive system, the scheduler can interrupt a process that is running.
+	
+	FCFS = Non Preemptive
+	SJF = Non Preemptive
+	SRTF = Preemptive
+	Round Robin = Preemptive
+
+*
+3.
+
+
+
+4. FCFS
+
+
+
+
+*
+5. 
+
+
+
+
+6. If a LIFO is maintained then the response time of the processes increase but this also leads to starvation of the processes which came into the queue first.
+
+*
+7.
+
+
+8. 1
+
+9. P0 -> 6
+   P1 -> 7
+   P3 -> 1
+   P2 -> 15
+
+
+10. FCFS
+    SRTF
+
+
+11. avg waiting time = 3.25
+    avg response time = 0.5
+
+
+*
+12.
+
+
+13. Proiority of the process is 120+10.
+
+14. 121 at 450ms , 119 at 600ms. 95ms, 420ms. The process switched from purely CPU bound to interactive process.
+
+15. zero
+
+16. Done
+
+*
+17. benefits of red-black tree
+	1. Self balancing property (relaxed self balancing)
+	2. All the operations are O(Log(n)).
+
+    AVL tree can also be used.
+
+
+
+
+
+
+
+

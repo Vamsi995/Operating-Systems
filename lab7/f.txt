@@ -1,0 +1,1865 @@
+Reporter starting the race
+H: 2 T: 1
+H: 4 T: 2
+H: 6 T: 3
+H: 8 T: 4
+H: 10 T: 5
+H: 12 T: 6
+H: 14 T: 7
+H: 16 T: 8
+H: 18 T: 9
+H: 20 T: 10
+H: 22 T: 11
+H: 24 T: 12
+H: 26 T: 13
+H: 28 T: 14
+H: 30 T: 15
+H: 32 T: 16
+H: 34 T: 17
+H: 36 T: 18
+H: 38 T: 19
+H: 40 T: 20
+H: 42 T: 21
+H: 44 T: 22
+H: 46 T: 23
+H: 48 T: 24
+H: 50 T: 25
+H: 52 T: 26
+H: 54 T: 27
+H: 56 T: 28
+H: 58 T: 29
+H: 60 T: 30
+H: 62 T: 31
+H: 64 T: 32
+H: 66 T: 33
+H: 68 T: 34
+H: 70 T: 35
+H: 72 T: 36
+H: 74 T: 37
+H: 76 T: 38
+H: 78 T: 39
+H: 80 T: 40
+H: 82 T: 41
+H: 84 T: 42
+H: 86 T: 43
+H: 88 T: 44
+H: 90 T: 45
+H: 92 T: 46
+H: 94 T: 47
+H: 96 T: 48
+H: 98 T: 49
+H: 100 T: 50
+H: 102 T: 51
+hpos read falied
+H: 102 T: 52
+hpos read falied
+H: 102 T: 53
+hpos read falied
+H: 102 T: 54
+hpos read falied
+H: 102 T: 55
+hpos read falied
+H: 102 T: 56
+hpos read falied
+H: 102 T: 57
+hpos read falied
+H: 102 T: 58
+hpos read falied
+H: 102 T: 59
+hpos read falied
+H: 102 T: 60
+hpos read falied
+H: 102 T: 61
+hpos read falied
+H: 102 T: 62
+hpos read falied
+H: 102 T: 63
+hpos read falied
+H: 102 T: 64
+hpos read falied
+H: 102 T: 65
+hpos read falied
+H: 102 T: 66
+hpos read falied
+H: 102 T: 67
+hpos read falied
+H: 102 T: 68
+hpos read falied
+H: 102 T: 69
+hpos read falied
+H: 102 T: 70
+hpos read falied
+H: 102 T: 71
+hpos read falied
+H: 102 T: 72
+hpos read falied
+H: 102 T: 73
+hpos read falied
+H: 102 T: 74
+hpos read falied
+H: 102 T: 75
+hpos read falied
+H: 102 T: 76
+hpos read falied
+H: 102 T: 77
+hpos read falied
+H: 102 T: 78
+hpos read falied
+H: 102 T: 79
+hpos read falied
+H: 102 T: 80
+hpos read falied
+H: 102 T: 81
+hpos read falied
+H: 102 T: 82
+hpos read falied
+H: 102 T: 83
+hpos read falied
+H: 102 T: 84
+hpos read falied
+H: 102 T: 85
+hpos read falied
+H: 102 T: 86
+hpos read falied
+H: 102 T: 87
+hpos read falied
+H: 102 T: 88
+hpos read falied
+H: 102 T: 89
+hpos read falied
+H: 102 T: 90
+hpos read falied
+H: 102 T: 91
+hpos read falied
+H: 102 T: 92
+hpos read falied
+H: 102 T: 93
+hpos read falied
+H: 102 T: 94
+hpos read falied
+H: 102 T: 95
+hpos read falied
+H: 102 T: 96
+hpos read falied
+H: 102 T: 97
+hpos read falied
+H: 102 T: 98
+hpos read falied
+H: 102 T: 99
+hpos read falied
+H: 102 T: 100
+hpos read falied
+H: 102 T: 101
+hpos read falied
+H: 102 T: 102
+hpos read falied
+H: 102 T: 103
+hpos read falied
+H: 102 T: 104
+hpos read falied
+H: 102 T: 105
+hpos read falied
+H: 102 T: 106
+hpos read falied
+H: 102 T: 107
+hpos read falied
+H: 102 T: 108
+hpos read falied
+H: 102 T: 109
+hpos read falied
+H: 102 T: 110
+hpos read falied
+H: 102 T: 111
+hpos read falied
+H: 102 T: 112
+hpos read falied
+H: 102 T: 113
+hpos read falied
+H: 102 T: 114
+hpos read falied
+H: 102 T: 115
+hpos read falied
+H: 102 T: 116
+hpos read falied
+H: 102 T: 117
+hpos read falied
+H: 102 T: 118
+hpos read falied
+H: 102 T: 119
+hpos read falied
+H: 102 T: 120
+hpos read falied
+H: 102 T: 121
+hpos read falied
+H: 102 T: 122
+hpos read falied
+H: 102 T: 123
+hpos read falied
+H: 102 T: 124
+hpos read falied
+H: 102 T: 125
+hpos read falied
+H: 102 T: 126
+hpos read falied
+H: 102 T: 127
+hpos read falied
+H: 102 T: 128
+hpos read falied
+H: 102 T: 129
+hpos read falied
+H: 102 T: 130
+hpos read falied
+H: 102 T: 131
+hpos read falied
+H: 102 T: 132
+hpos read falied
+H: 102 T: 133
+hpos read falied
+H: 102 T: 134
+hpos read falied
+H: 102 T: 135
+hpos read falied
+H: 102 T: 136
+hpos read falied
+H: 102 T: 137
+hpos read falied
+H: 102 T: 138
+hpos read falied
+H: 102 T: 139
+hpos read falied
+H: 102 T: 140
+hpos read falied
+H: 102 T: 141
+hpos read falied
+H: 102 T: 142
+hpos read falied
+H: 102 T: 143
+hpos read falied
+H: 102 T: 144
+hpos read falied
+H: 102 T: 145
+hpos read falied
+H: 102 T: 146
+hpos read falied
+H: 102 T: 147
+hpos read falied
+H: 102 T: 148
+hpos read falied
+H: 102 T: 149
+hpos read falied
+H: 102 T: 150
+hpos read falied
+H: 102 T: 151
+hpos read falied
+H: 102 T: 152
+hpos read falied
+H: 102 T: 153
+hpos read falied
+H: 102 T: 154
+hpos read falied
+H: 102 T: 155
+hpos read falied
+H: 102 T: 156
+hpos read falied
+H: 102 T: 157
+hpos read falied
+H: 102 T: 158
+hpos read falied
+H: 102 T: 159
+hpos read falied
+H: 102 T: 160
+hpos read falied
+H: 102 T: 161
+hpos read falied
+H: 102 T: 162
+hpos read falied
+H: 102 T: 163
+hpos read falied
+H: 102 T: 164
+hpos read falied
+H: 102 T: 165
+hpos read falied
+H: 102 T: 166
+hpos read falied
+H: 102 T: 167
+hpos read falied
+H: 102 T: 168
+hpos read falied
+H: 102 T: 169
+hpos read falied
+H: 102 T: 170
+hpos read falied
+H: 102 T: 171
+hpos read falied
+H: 102 T: 172
+hpos read falied
+H: 102 T: 173
+hpos read falied
+H: 102 T: 174
+hpos read falied
+H: 102 T: 175
+hpos read falied
+H: 102 T: 176
+hpos read falied
+H: 102 T: 177
+hpos read falied
+H: 102 T: 178
+hpos read falied
+H: 102 T: 179
+hpos read falied
+H: 102 T: 180
+hpos read falied
+H: 102 T: 181
+hpos read falied
+H: 102 T: 182
+hpos read falied
+H: 102 T: 183
+hpos read falied
+H: 102 T: 184
+hpos read falied
+H: 102 T: 185
+hpos read falied
+H: 102 T: 186
+hpos read falied
+H: 102 T: 187
+hpos read falied
+H: 102 T: 188
+hpos read falied
+H: 102 T: 189
+hpos read falied
+H: 102 T: 190
+hpos read falied
+H: 102 T: 191
+hpos read falied
+H: 102 T: 192
+hpos read falied
+H: 102 T: 193
+hpos read falied
+H: 102 T: 194
+hpos read falied
+H: 102 T: 195
+hpos read falied
+H: 102 T: 196
+hpos read falied
+H: 102 T: 197
+hpos read falied
+H: 102 T: 198
+hpos read falied
+H: 102 T: 199
+hpos read falied
+H: 102 T: 200
+hpos read falied
+H: 102 T: 201
+hpos read falied
+H: 102 T: 202
+hpos read falied
+H: 102 T: 203
+hpos read falied
+H: 102 T: 204
+hpos read falied
+H: 102 T: 205
+hpos read falied
+H: 102 T: 206
+hpos read falied
+H: 102 T: 207
+hpos read falied
+H: 102 T: 208
+hpos read falied
+H: 102 T: 209
+hpos read falied
+H: 102 T: 210
+hpos read falied
+H: 102 T: 211
+hpos read falied
+H: 102 T: 212
+hpos read falied
+H: 102 T: 213
+hpos read falied
+H: 102 T: 214
+hpos read falied
+H: 102 T: 215
+hpos read falied
+H: 102 T: 216
+hpos read falied
+H: 102 T: 217
+hpos read falied
+H: 102 T: 218
+hpos read falied
+H: 102 T: 219
+hpos read falied
+H: 102 T: 220
+hpos read falied
+H: 102 T: 221
+hpos read falied
+H: 102 T: 222
+hpos read falied
+H: 102 T: 223
+hpos read falied
+H: 102 T: 224
+hpos read falied
+H: 102 T: 225
+hpos read falied
+H: 102 T: 226
+hpos read falied
+H: 102 T: 227
+hpos read falied
+H: 102 T: 228
+hpos read falied
+H: 102 T: 229
+hpos read falied
+H: 102 T: 230
+hpos read falied
+H: 102 T: 231
+hpos read falied
+H: 102 T: 232
+hpos read falied
+H: 102 T: 233
+hpos read falied
+H: 102 T: 234
+hpos read falied
+H: 102 T: 235
+hpos read falied
+H: 102 T: 236
+hpos read falied
+H: 102 T: 237
+hpos read falied
+H: 102 T: 238
+hpos read falied
+H: 102 T: 239
+hpos read falied
+H: 102 T: 240
+hpos read falied
+H: 102 T: 241
+hpos read falied
+H: 102 T: 242
+hpos read falied
+H: 102 T: 243
+hpos read falied
+H: 102 T: 244
+hpos read falied
+H: 102 T: 245
+hpos read falied
+H: 102 T: 246
+hpos read falied
+H: 102 T: 247
+hpos read falied
+H: 102 T: 248
+hpos read falied
+H: 102 T: 249
+hpos read falied
+H: 102 T: 250
+hpos read falied
+H: 102 T: 251
+hpos read falied
+H: 102 T: 252
+hpos read falied
+H: 102 T: 253
+hpos read falied
+H: 102 T: 254
+hpos read falied
+H: 102 T: 255
+hpos read falied
+H: 102 T: 256
+hpos read falied
+H: 102 T: 257
+hpos read falied
+H: 102 T: 258
+hpos read falied
+H: 102 T: 259
+hpos read falied
+H: 102 T: 260
+hpos read falied
+H: 102 T: 261
+hpos read falied
+H: 102 T: 262
+hpos read falied
+H: 102 T: 263
+hpos read falied
+H: 102 T: 264
+hpos read falied
+H: 102 T: 265
+hpos read falied
+H: 102 T: 266
+hpos read falied
+H: 102 T: 267
+hpos read falied
+H: 102 T: 268
+hpos read falied
+H: 102 T: 269
+hpos read falied
+H: 102 T: 270
+hpos read falied
+H: 102 T: 271
+hpos read falied
+H: 102 T: 272
+hpos read falied
+H: 102 T: 273
+hpos read falied
+H: 102 T: 274
+hpos read falied
+H: 102 T: 275
+hpos read falied
+H: 102 T: 276
+hpos read falied
+H: 102 T: 277
+hpos read falied
+H: 102 T: 278
+hpos read falied
+H: 102 T: 279
+hpos read falied
+H: 102 T: 280
+hpos read falied
+H: 102 T: 281
+hpos read falied
+H: 102 T: 282
+hpos read falied
+H: 102 T: 283
+hpos read falied
+H: 102 T: 284
+hpos read falied
+H: 102 T: 285
+hpos read falied
+H: 102 T: 286
+hpos read falied
+H: 102 T: 287
+hpos read falied
+H: 102 T: 288
+hpos read falied
+H: 102 T: 289
+hpos read falied
+H: 102 T: 290
+hpos read falied
+H: 102 T: 291
+hpos read falied
+H: 102 T: 292
+hpos read falied
+H: 102 T: 293
+hpos read falied
+H: 102 T: 294
+hpos read falied
+H: 102 T: 295
+hpos read falied
+H: 102 T: 296
+hpos read falied
+H: 102 T: 297
+hpos read falied
+H: 102 T: 298
+hpos read falied
+H: 102 T: 299
+hpos read falied
+H: 102 T: 300
+hpos read falied
+H: 102 T: 301
+hpos read falied
+H: 102 T: 302
+hpos read falied
+H: 102 T: 303
+hpos read falied
+H: 102 T: 304
+hpos read falied
+H: 102 T: 305
+hpos read falied
+H: 102 T: 306
+hpos read falied
+H: 102 T: 307
+hpos read falied
+H: 102 T: 308
+hpos read falied
+H: 102 T: 309
+hpos read falied
+H: 102 T: 310
+hpos read falied
+H: 102 T: 311
+hpos read falied
+H: 102 T: 312
+hpos read falied
+H: 102 T: 313
+hpos read falied
+H: 102 T: 314
+hpos read falied
+H: 102 T: 315
+hpos read falied
+H: 102 T: 316
+hpos read falied
+H: 102 T: 317
+hpos read falied
+H: 102 T: 318
+hpos read falied
+H: 102 T: 319
+hpos read falied
+H: 102 T: 320
+hpos read falied
+H: 102 T: 321
+hpos read falied
+H: 102 T: 322
+hpos read falied
+H: 102 T: 323
+hpos read falied
+H: 102 T: 324
+hpos read falied
+H: 102 T: 325
+hpos read falied
+H: 102 T: 326
+hpos read falied
+H: 102 T: 327
+hpos read falied
+H: 102 T: 328
+hpos read falied
+H: 102 T: 329
+hpos read falied
+H: 102 T: 330
+hpos read falied
+H: 102 T: 331
+hpos read falied
+H: 102 T: 332
+hpos read falied
+H: 102 T: 333
+hpos read falied
+H: 102 T: 334
+hpos read falied
+H: 102 T: 335
+hpos read falied
+H: 102 T: 336
+hpos read falied
+H: 102 T: 337
+hpos read falied
+H: 102 T: 338
+hpos read falied
+H: 102 T: 339
+hpos read falied
+H: 102 T: 340
+hpos read falied
+H: 102 T: 341
+hpos read falied
+H: 102 T: 342
+hpos read falied
+H: 102 T: 343
+hpos read falied
+H: 102 T: 344
+hpos read falied
+H: 102 T: 345
+hpos read falied
+H: 102 T: 346
+hpos read falied
+H: 102 T: 347
+hpos read falied
+H: 102 T: 348
+hpos read falied
+H: 102 T: 349
+hpos read falied
+H: 102 T: 350
+hpos read falied
+H: 102 T: 351
+hpos read falied
+H: 102 T: 352
+hpos read falied
+H: 102 T: 353
+hpos read falied
+H: 102 T: 354
+hpos read falied
+H: 102 T: 355
+hpos read falied
+H: 102 T: 356
+hpos read falied
+H: 102 T: 357
+hpos read falied
+H: 102 T: 358
+hpos read falied
+H: 102 T: 359
+hpos read falied
+H: 102 T: 360
+hpos read falied
+H: 102 T: 361
+hpos read falied
+H: 102 T: 362
+hpos read falied
+H: 102 T: 363
+hpos read falied
+H: 102 T: 364
+hpos read falied
+H: 102 T: 365
+hpos read falied
+H: 102 T: 366
+hpos read falied
+H: 102 T: 367
+hpos read falied
+H: 102 T: 368
+hpos read falied
+H: 102 T: 369
+hpos read falied
+H: 102 T: 370
+hpos read falied
+H: 102 T: 371
+hpos read falied
+H: 102 T: 372
+hpos read falied
+H: 102 T: 373
+hpos read falied
+H: 102 T: 374
+hpos read falied
+H: 102 T: 375
+hpos read falied
+H: 102 T: 376
+hpos read falied
+H: 102 T: 377
+hpos read falied
+H: 102 T: 378
+hpos read falied
+H: 102 T: 379
+hpos read falied
+H: 102 T: 380
+hpos read falied
+H: 102 T: 381
+hpos read falied
+H: 102 T: 382
+hpos read falied
+H: 102 T: 383
+hpos read falied
+H: 102 T: 384
+hpos read falied
+H: 102 T: 385
+hpos read falied
+H: 102 T: 386
+hpos read falied
+H: 102 T: 387
+hpos read falied
+H: 102 T: 388
+hpos read falied
+H: 102 T: 389
+hpos read falied
+H: 102 T: 390
+hpos read falied
+H: 102 T: 391
+hpos read falied
+H: 102 T: 392
+hpos read falied
+H: 102 T: 393
+hpos read falied
+H: 102 T: 394
+hpos read falied
+H: 102 T: 395
+hpos read falied
+H: 102 T: 396
+hpos read falied
+H: 102 T: 397
+hpos read falied
+H: 102 T: 398
+hpos read falied
+H: 102 T: 399
+hpos read falied
+H: 102 T: 400
+hpos read falied
+H: 102 T: 401
+hpos read falied
+H: 102 T: 402
+hpos read falied
+H: 102 T: 403
+hpos read falied
+H: 102 T: 404
+hpos read falied
+H: 102 T: 405
+hpos read falied
+H: 102 T: 406
+hpos read falied
+H: 102 T: 407
+hpos read falied
+H: 102 T: 408
+hpos read falied
+H: 102 T: 409
+hpos read falied
+H: 102 T: 410
+hpos read falied
+H: 102 T: 411
+hpos read falied
+H: 102 T: 412
+hpos read falied
+H: 102 T: 413
+hpos read falied
+H: 102 T: 414
+hpos read falied
+H: 102 T: 415
+hpos read falied
+H: 102 T: 416
+hpos read falied
+H: 102 T: 417
+hpos read falied
+H: 102 T: 418
+hpos read falied
+H: 102 T: 419
+hpos read falied
+H: 102 T: 420
+hpos read falied
+H: 102 T: 421
+hpos read falied
+H: 102 T: 422
+hpos read falied
+H: 102 T: 423
+hpos read falied
+H: 102 T: 424
+hpos read falied
+H: 102 T: 425
+hpos read falied
+H: 102 T: 426
+hpos read falied
+H: 102 T: 427
+hpos read falied
+H: 102 T: 428
+hpos read falied
+H: 102 T: 429
+hpos read falied
+H: 102 T: 430
+hpos read falied
+H: 102 T: 431
+hpos read falied
+H: 102 T: 432
+hpos read falied
+H: 102 T: 433
+hpos read falied
+H: 102 T: 434
+hpos read falied
+H: 102 T: 435
+hpos read falied
+H: 102 T: 436
+hpos read falied
+H: 102 T: 437
+hpos read falied
+H: 102 T: 438
+hpos read falied
+H: 102 T: 439
+hpos read falied
+H: 102 T: 440
+hpos read falied
+H: 102 T: 441
+hpos read falied
+H: 102 T: 442
+hpos read falied
+H: 102 T: 443
+hpos read falied
+H: 102 T: 444
+hpos read falied
+H: 102 T: 445
+hpos read falied
+H: 102 T: 446
+hpos read falied
+H: 102 T: 447
+hpos read falied
+H: 102 T: 448
+hpos read falied
+H: 102 T: 449
+hpos read falied
+H: 102 T: 450
+hpos read falied
+H: 102 T: 451
+hpos read falied
+H: 102 T: 452
+hpos read falied
+H: 102 T: 453
+hpos read falied
+H: 102 T: 454
+hpos read falied
+H: 102 T: 455
+hpos read falied
+H: 102 T: 456
+hpos read falied
+H: 102 T: 457
+hpos read falied
+H: 102 T: 458
+hpos read falied
+H: 102 T: 459
+hpos read falied
+H: 102 T: 460
+hpos read falied
+H: 102 T: 461
+hpos read falied
+H: 102 T: 462
+hpos read falied
+H: 102 T: 463
+hpos read falied
+H: 102 T: 464
+hpos read falied
+H: 102 T: 465
+hpos read falied
+H: 102 T: 466
+hpos read falied
+H: 102 T: 467
+hpos read falied
+H: 102 T: 468
+hpos read falied
+H: 102 T: 469
+hpos read falied
+H: 102 T: 470
+hpos read falied
+H: 102 T: 471
+hpos read falied
+H: 102 T: 472
+hpos read falied
+H: 102 T: 473
+hpos read falied
+H: 102 T: 474
+hpos read falied
+H: 102 T: 475
+hpos read falied
+H: 102 T: 476
+hpos read falied
+H: 102 T: 477
+hpos read falied
+H: 102 T: 478
+hpos read falied
+H: 102 T: 479
+hpos read falied
+H: 102 T: 480
+hpos read falied
+H: 102 T: 481
+hpos read falied
+H: 102 T: 482
+hpos read falied
+H: 102 T: 483
+hpos read falied
+H: 102 T: 484
+hpos read falied
+H: 102 T: 485
+hpos read falied
+H: 102 T: 486
+hpos read falied
+H: 102 T: 487
+hpos read falied
+H: 102 T: 488
+hpos read falied
+H: 102 T: 489
+hpos read falied
+H: 102 T: 490
+hpos read falied
+H: 102 T: 491
+hpos read falied
+H: 102 T: 492
+hpos read falied
+H: 102 T: 493
+hpos read falied
+H: 102 T: 494
+hpos read falied
+H: 102 T: 495
+hpos read falied
+H: 102 T: 496
+hpos read falied
+H: 102 T: 497
+hpos read falied
+H: 102 T: 498
+hpos read falied
+H: 102 T: 499
+hpos read falied
+H: 102 T: 500
+hpos read falied
+H: 102 T: 501
+hpos read falied
+H: 102 T: 502
+hpos read falied
+H: 102 T: 503
+hpos read falied
+H: 102 T: 504
+hpos read falied
+H: 102 T: 505
+hpos read falied
+H: 102 T: 506
+hpos read falied
+H: 102 T: 507
+hpos read falied
+H: 102 T: 508
+hpos read falied
+H: 102 T: 509
+hpos read falied
+H: 102 T: 510
+hpos read falied
+H: 102 T: 511
+hpos read falied
+H: 102 T: 512
+hpos read falied
+H: 102 T: 513
+hpos read falied
+H: 102 T: 514
+hpos read falied
+H: 102 T: 515
+hpos read falied
+H: 102 T: 516
+hpos read falied
+H: 102 T: 517
+hpos read falied
+H: 102 T: 518
+hpos read falied
+H: 102 T: 519
+hpos read falied
+H: 102 T: 520
+hpos read falied
+H: 102 T: 521
+hpos read falied
+H: 102 T: 522
+hpos read falied
+H: 102 T: 523
+hpos read falied
+H: 102 T: 524
+hpos read falied
+H: 102 T: 525
+hpos read falied
+H: 102 T: 526
+hpos read falied
+H: 102 T: 527
+hpos read falied
+H: 102 T: 528
+hpos read falied
+H: 102 T: 529
+hpos read falied
+H: 102 T: 530
+hpos read falied
+H: 102 T: 531
+hpos read falied
+H: 102 T: 532
+hpos read falied
+H: 102 T: 533
+hpos read falied
+H: 102 T: 534
+hpos read falied
+H: 102 T: 535
+hpos read falied
+H: 102 T: 536
+hpos read falied
+H: 102 T: 537
+hpos read falied
+H: 102 T: 538
+hpos read falied
+H: 102 T: 539
+hpos read falied
+H: 102 T: 540
+hpos read falied
+H: 102 T: 541
+hpos read falied
+H: 102 T: 542
+hpos read falied
+H: 102 T: 543
+hpos read falied
+H: 102 T: 544
+hpos read falied
+H: 102 T: 545
+hpos read falied
+H: 102 T: 546
+hpos read falied
+H: 102 T: 547
+hpos read falied
+H: 102 T: 548
+hpos read falied
+H: 102 T: 549
+hpos read falied
+H: 102 T: 550
+hpos read falied
+H: 102 T: 551
+hpos read falied
+H: 102 T: 552
+hpos read falied
+H: 102 T: 553
+hpos read falied
+H: 102 T: 554
+hpos read falied
+H: 102 T: 555
+hpos read falied
+H: 102 T: 556
+hpos read falied
+H: 102 T: 557
+hpos read falied
+H: 102 T: 558
+hpos read falied
+H: 102 T: 559
+hpos read falied
+H: 102 T: 560
+hpos read falied
+H: 102 T: 561
+hpos read falied
+H: 102 T: 562
+hpos read falied
+H: 102 T: 563
+hpos read falied
+H: 102 T: 564
+hpos read falied
+H: 102 T: 565
+hpos read falied
+H: 102 T: 566
+hpos read falied
+H: 102 T: 567
+hpos read falied
+H: 102 T: 568
+hpos read falied
+H: 102 T: 569
+hpos read falied
+H: 102 T: 570
+hpos read falied
+H: 102 T: 571
+hpos read falied
+H: 102 T: 572
+hpos read falied
+H: 102 T: 573
+hpos read falied
+H: 102 T: 574
+hpos read falied
+H: 102 T: 575
+hpos read falied
+H: 102 T: 576
+hpos read falied
+H: 102 T: 577
+hpos read falied
+H: 102 T: 578
+hpos read falied
+H: 102 T: 579
+hpos read falied
+H: 102 T: 580
+hpos read falied
+H: 102 T: 581
+hpos read falied
+H: 102 T: 582
+hpos read falied
+H: 102 T: 583
+hpos read falied
+H: 102 T: 584
+hpos read falied
+H: 102 T: 585
+hpos read falied
+H: 102 T: 586
+hpos read falied
+H: 102 T: 587
+hpos read falied
+H: 102 T: 588
+hpos read falied
+H: 102 T: 589
+hpos read falied
+H: 102 T: 590
+hpos read falied
+H: 102 T: 591
+hpos read falied
+H: 102 T: 592
+hpos read falied
+H: 102 T: 593
+hpos read falied
+H: 102 T: 594
+hpos read falied
+H: 102 T: 595
+hpos read falied
+H: 102 T: 596
+hpos read falied
+H: 102 T: 597
+hpos read falied
+H: 102 T: 598
+hpos read falied
+H: 102 T: 599
+hpos read falied
+H: 102 T: 600
+hpos read falied
+H: 102 T: 601
+hpos read falied
+H: 102 T: 602
+hpos read falied
+H: 102 T: 603
+hpos read falied
+H: 102 T: 604
+hpos read falied
+H: 102 T: 605
+hpos read falied
+H: 102 T: 606
+hpos read falied
+H: 102 T: 607
+hpos read falied
+H: 102 T: 608
+hpos read falied
+H: 102 T: 609
+hpos read falied
+H: 102 T: 610
+hpos read falied
+H: 102 T: 611
+hpos read falied
+H: 102 T: 612
+hpos read falied
+H: 102 T: 613
+hpos read falied
+H: 102 T: 614
+hpos read falied
+H: 102 T: 615
+hpos read falied
+H: 102 T: 616
+hpos read falied
+H: 102 T: 617
+hpos read falied
+H: 102 T: 618
+hpos read falied
+H: 102 T: 619
+hpos read falied
+H: 102 T: 620
+hpos read falied
+H: 102 T: 621
+hpos read falied
+H: 102 T: 622
+hpos read falied
+H: 102 T: 623
+hpos read falied
+H: 102 T: 624
+hpos read falied
+H: 102 T: 625
+hpos read falied
+H: 102 T: 626
+hpos read falied
+H: 102 T: 627
+hpos read falied
+H: 102 T: 628
+hpos read falied
+H: 102 T: 629
+hpos read falied
+H: 102 T: 630
+hpos read falied
+H: 102 T: 631
+hpos read falied
+H: 102 T: 632
+hpos read falied
+H: 102 T: 633
+hpos read falied
+H: 102 T: 634
+hpos read falied
+H: 102 T: 635
+hpos read falied
+H: 102 T: 636
+hpos read falied
+H: 102 T: 637
+hpos read falied
+H: 102 T: 638
+hpos read falied
+H: 102 T: 639
+hpos read falied
+H: 102 T: 640
+hpos read falied
+H: 102 T: 641
+hpos read falied
+H: 102 T: 642
+hpos read falied
+H: 102 T: 643
+hpos read falied
+H: 102 T: 644
+hpos read falied
+H: 102 T: 645
+hpos read falied
+H: 102 T: 646
+hpos read falied
+H: 102 T: 647
+hpos read falied
+H: 102 T: 648
+hpos read falied
+H: 102 T: 649
+hpos read falied
+H: 102 T: 650
+hpos read falied
+H: 102 T: 651
+hpos read falied
+H: 102 T: 652
+hpos read falied
+H: 102 T: 653
+hpos read falied
+H: 102 T: 654
+hpos read falied
+H: 102 T: 655
+hpos read falied
+H: 102 T: 656
+hpos read falied
+H: 102 T: 657
+hpos read falied
+H: 102 T: 658
+hpos read falied
+H: 102 T: 659
+hpos read falied
+H: 102 T: 660
+hpos read falied
+H: 102 T: 661
+hpos read falied
+H: 102 T: 662
+hpos read falied
+H: 102 T: 663
+hpos read falied
+H: 102 T: 664
+hpos read falied
+H: 102 T: 665
+hpos read falied
+H: 102 T: 666
+hpos read falied
+H: 102 T: 667
+hpos read falied
+H: 102 T: 668
+hpos read falied
+H: 102 T: 669
+hpos read falied
+H: 102 T: 670
+hpos read falied
+H: 102 T: 671
+hpos read falied
+H: 102 T: 672
+hpos read falied
+H: 102 T: 673
+hpos read falied
+H: 102 T: 674
+hpos read falied
+H: 102 T: 675
+hpos read falied
+H: 102 T: 676
+hpos read falied
+H: 102 T: 677
+hpos read falied
+H: 102 T: 678
+hpos read falied
+H: 102 T: 679
+hpos read falied
+H: 102 T: 680
+hpos read falied
+H: 102 T: 681
+hpos read falied
+H: 102 T: 682
+hpos read falied
+H: 102 T: 683
+hpos read falied
+H: 102 T: 684
+hpos read falied
+H: 102 T: 685
+hpos read falied
+H: 102 T: 686
+hpos read falied
+H: 102 T: 687
+hpos read falied
+H: 102 T: 688
+hpos read falied
+H: 102 T: 689
+hpos read falied
+H: 102 T: 690
+hpos read falied
+H: 102 T: 691
+hpos read falied
+H: 102 T: 692
+hpos read falied
+H: 102 T: 693
+hpos read falied
+H: 102 T: 694
+hpos read falied
+H: 102 T: 695
+hpos read falied
+H: 102 T: 696
+hpos read falied
+H: 102 T: 697
+hpos read falied
+H: 102 T: 698
+hpos read falied
+H: 102 T: 699
+hpos read falied
+H: 102 T: 700
+hpos read falied
+H: 102 T: 701
+hpos read falied
+H: 102 T: 702
+hpos read falied
+H: 102 T: 703
+hpos read falied
+H: 102 T: 704
+hpos read falied
+H: 102 T: 705
+hpos read falied
+H: 102 T: 706
+hpos read falied
+H: 102 T: 707
+hpos read falied
+H: 102 T: 708
+hpos read falied
+H: 102 T: 709
+hpos read falied
+H: 102 T: 710
+hpos read falied
+H: 102 T: 711
+hpos read falied
+H: 102 T: 712
+hpos read falied
+H: 102 T: 713
+hpos read falied
+H: 102 T: 714
+hpos read falied
+H: 102 T: 715
+hpos read falied
+H: 102 T: 716
+hpos read falied
+H: 102 T: 717
+hpos read falied
+H: 102 T: 718
+hpos read falied
+H: 102 T: 719
+hpos read falied
+H: 102 T: 720
+hpos read falied
+H: 102 T: 721
+hpos read falied
+H: 102 T: 722
+hpos read falied
+H: 102 T: 723
+hpos read falied
+H: 102 T: 724
+hpos read falied
+H: 102 T: 725
+hpos read falied
+H: 102 T: 726
+hpos read falied
+H: 102 T: 727
+hpos read falied
+H: 102 T: 728
+hpos read falied
+H: 102 T: 729
+hpos read falied
+H: 102 T: 730
+hpos read falied
+H: 102 T: 731
+hpos read falied
+H: 102 T: 732
+hpos read falied
+H: 102 T: 733
+hpos read falied
+H: 102 T: 734
+hpos read falied
+H: 102 T: 735
+hpos read falied
+H: 102 T: 736
+hpos read falied
+H: 102 T: 737
+hpos read falied
+H: 102 T: 738
+hpos read falied
+H: 102 T: 739
+hpos read falied
+H: 102 T: 740
+hpos read falied
+H: 102 T: 741
+hpos read falied
+H: 102 T: 742
+hpos read falied
+H: 102 T: 743
+hpos read falied
+H: 102 T: 744
+hpos read falied
+H: 102 T: 745
+hpos read falied
+H: 102 T: 746
+hpos read falied
+H: 102 T: 747
+hpos read falied
+H: 102 T: 748
+hpos read falied
+H: 102 T: 749
+hpos read falied
+H: 102 T: 750
+hpos read falied
+H: 102 T: 751
+hpos read falied
+H: 102 T: 752
+hpos read falied
+H: 102 T: 753
+hpos read falied
+H: 102 T: 754
+hpos read falied
+H: 102 T: 755
+hpos read falied
+H: 102 T: 756
+hpos read falied
+H: 102 T: 757
+hpos read falied
+H: 102 T: 758
+hpos read falied
+H: 102 T: 759
+hpos read falied
+H: 102 T: 760
+hpos read falied
+H: 102 T: 761
+hpos read falied
+H: 102 T: 762
+hpos read falied
+H: 102 T: 763
+hpos read falied
+H: 102 T: 764
+hpos read falied
+H: 102 T: 765
+hpos read falied
+H: 102 T: 766
+hpos read falied
+H: 102 T: 767
+hpos read falied
+H: 102 T: 768
+hpos read falied
+H: 102 T: 769
+hpos read falied
+H: 102 T: 770
+hpos read falied
+H: 102 T: 771
+hpos read falied
+H: 102 T: 772
+hpos read falied
+H: 102 T: 773
+hpos read falied
+H: 102 T: 774
+hpos read falied
+H: 102 T: 775
+hpos read falied
+H: 102 T: 776
+hpos read falied
+H: 102 T: 777
+hpos read falied
+H: 102 T: 778
+hpos read falied
+H: 102 T: 779
+hpos read falied
+H: 102 T: 780
+hpos read falied
+H: 102 T: 781
+hpos read falied
+H: 102 T: 782
+hpos read falied
+H: 102 T: 783
+hpos read falied
+H: 102 T: 784
+hpos read falied
+H: 102 T: 785
+hpos read falied
+H: 102 T: 786
+hpos read falied
+H: 102 T: 787
+hpos read falied
+H: 102 T: 788
+hpos read falied
+H: 102 T: 789
+hpos read falied
+H: 102 T: 790
+hpos read falied
+H: 102 T: 791
+hpos read falied
+H: 102 T: 792
+hpos read falied
+H: 102 T: 793
+hpos read falied
+H: 102 T: 794
+hpos read falied
+H: 102 T: 795
+hpos read falied
+H: 102 T: 796
+hpos read falied
+H: 102 T: 797
+hpos read falied
+H: 102 T: 798
+hpos read falied
+H: 102 T: 799
+hpos read falied
+H: 102 T: 800
+hpos read falied
+H: 102 T: 801
+hpos read falied
+H: 102 T: 802
+hpos read falied
+H: 102 T: 803
+hpos read falied
+H: 102 T: 804
+hpos read falied
+H: 102 T: 805
+hpos read falied
+H: 102 T: 806
+hpos read falied
+H: 102 T: 807
+hpos read falied
+H: 102 T: 808
+hpos read falied
+H: 102 T: 809
+hpos read falied
+H: 102 T: 810
+hpos read falied
+H: 102 T: 811
+hpos read falied
+H: 102 T: 812
+hpos read falied
+H: 102 T: 813
+hpos read falied
+H: 102 T: 814
+hpos read falied
+H: 102 T: 815
+hpos read falied
+H: 102 T: 816
+hpos read falied
+H: 102 T: 817
+hpos read falied
+H: 102 T: 818
+hpos read falied
+H: 102 T: 819
+hpos read falied
+H: 102 T: 820
+hpos read falied
+H: 102 T: 821
+hpos read falied
+H: 102 T: 822
+hpos read falied
+H: 102 T: 823
+hpos read falied
+H: 102 T: 824
+hpos read falied
+H: 102 T: 825
+hpos read falied
+H: 102 T: 826
+hpos read falied
+H: 102 T: 827
+hpos read falied
+H: 102 T: 828
+hpos read falied
+H: 102 T: 829
+hpos read falied
+H: 102 T: 830
+hpos read falied
+H: 102 T: 831
+hpos read falied
+H: 102 T: 832
+hpos read falied
+H: 102 T: 833
+hpos read falied
+H: 102 T: 834
+hpos read falied
+H: 102 T: 835
+hpos read falied
+H: 102 T: 836
+hpos read falied
+H: 102 T: 837
+hpos read falied
+H: 102 T: 838
+hpos read falied
+H: 102 T: 839
+hpos read falied
+H: 102 T: 840
+hpos read falied
+H: 102 T: 841
+hpos read falied
+H: 102 T: 842
+hpos read falied
+H: 102 T: 843
+hpos read falied
+H: 102 T: 844
+hpos read falied
+H: 102 T: 845
+hpos read falied
+H: 102 T: 846
+hpos read falied
+H: 102 T: 847
+hpos read falied
+H: 102 T: 848
+hpos read falied
+H: 102 T: 849
+hpos read falied
+H: 102 T: 850
+hpos read falied
+H: 102 T: 851
+hpos read falied
+H: 102 T: 852
+hpos read falied
+H: 102 T: 853
+hpos read falied
+H: 102 T: 854
+hpos read falied
+H: 102 T: 855
+hpos read falied
+H: 102 T: 856
+hpos read falied
+H: 102 T: 857
+hpos read falied
+H: 102 T: 858
+hpos read falied
+H: 102 T: 859
+hpos read falied
+H: 102 T: 860
+hpos read falied
+H: 102 T: 861
+hpos read falied
+H: 102 T: 862
+hpos read falied
+H: 102 T: 863
+hpos read falied
+H: 102 T: 864
+hpos read falied
+H: 102 T: 865
+hpos read falied
+H: 102 T: 866
+hpos read falied
+H: 102 T: 867
+hpos read falied
+H: 102 T: 868
+hpos read falied
+H: 102 T: 869
+hpos read falied
+H: 102 T: 870
+hpos read falied
+H: 102 T: 871
+hpos read falied
+H: 102 T: 872
+hpos read falied
+H: 102 T: 873
+hpos read falied
+H: 102 T: 874
+hpos read falied
+H: 102 T: 875
+hpos read falied
+H: 102 T: 876
+hpos read falied
+H: 102 T: 877
+hpos read falied
+H: 102 T: 878
+hpos read falied
+H: 102 T: 879
+hpos read falied
+H: 102 T: 880
+hpos read falied
+H: 102 T: 881
+hpos read falied
+H: 102 T: 882
+hpos read falied
+H: 102 T: 883
+hpos read falied
+H: 102 T: 884
+hpos read falied
+H: 102 T: 885
+hpos read falied
+H: 102 T: 886
+hpos read falied
+H: 102 T: 887
+hpos read falied
+H: 102 T: 888
+hpos read falied
+H: 102 T: 889
+hpos read falied
+H: 102 T: 890
+hpos read falied
+H: 102 T: 891
+hpos read falied
+H: 102 T: 892
+hpos read falied
+H: 102 T: 893
+hpos read falied
+H: 102 T: 894
+hpos read falied
+H: 102 T: 895
+hpos read falied
+H: 102 T: 896
+hpos read falied
+H: 102 T: 897
+hpos read falied
+H: 102 T: 898
+hpos read falied
+H: 102 T: 899
+hpos read falied
+H: 102 T: 900
+hpos read falied
+H: 102 T: 901
+hpos read falied
+H: 102 T: 902
+hpos read falied
+H: 102 T: 903
+hpos read falied
+H: 102 T: 904
+hpos read falied
+H: 102 T: 905
+hpos read falied
+H: 102 T: 906
+hpos read falied
+H: 102 T: 907
+hpos read falied
+H: 102 T: 908
+hpos read falied
+H: 102 T: 909
+hpos read falied
+H: 102 T: 910
+hpos read falied
+H: 102 T: 911
+hpos read falied
+H: 102 T: 912
+hpos read falied
+H: 102 T: 913
+hpos read falied
+H: 102 T: 914
+hpos read falied
+H: 102 T: 915
+hpos read falied
+H: 102 T: 916
+hpos read falied
+H: 102 T: 917
+hpos read falied
+H: 102 T: 918
+hpos read falied
+H: 102 T: 919
+hpos read falied
+H: 102 T: 920
+hpos read falied
+H: 102 T: 921
+hpos read falied
+H: 102 T: 922
+hpos read falied
+H: 102 T: 923
+hpos read falied
+H: 102 T: 924
+hpos read falied
+H: 102 T: 925
+hpos read falied
+H: 102 T: 926
+hpos read falied
+H: 102 T: 927
+hpos read falied
+H: 102 T: 928
+hpos read falied
+H: 102 T: 929
+hpos read falied
+H: 102 T: 930
+hpos read falied
+H: 102 T: 931
+hpos read falied
+H: 102 T: 932
+hpos read falied
+H: 102 T: 933
+hpos read falied
+H: 102 T: 934
+hpos read falied
+H: 102 T: 935
+hpos read falied
+H: 102 T: 936
+hpos read falied
+H: 102 T: 937
+hpos read falied
+H: 102 T: 938
+hpos read falied
+H: 102 T: 939
+hpos read falied
+H: 102 T: 940
+hpos read falied
+H: 102 T: 941
+hpos read falied
+H: 102 T: 942
+hpos read falied
+H: 102 T: 943
+hpos read falied
+H: 102 T: 944
+hpos read falied
+H: 102 T: 945
+hpos read falied
+H: 102 T: 946
+hpos read falied
+H: 102 T: 947
+hpos read falied
+H: 102 T: 948
+hpos read falied
+H: 102 T: 949
+hpos read falied
+H: 102 T: 950
+hpos read falied
+H: 102 T: 951
+hpos read falied
+H: 102 T: 952
+hpos read falied
+H: 102 T: 953
+hpos read falied
+H: 102 T: 954
+hpos read falied
+H: 102 T: 955
+hpos read falied
+H: 102 T: 956
+hpos read falied
+H: 102 T: 957
+hpos r
