@@ -135,6 +135,25 @@ are their names?
 24. How many general-purpose registers are supported by x86_64 (64-bit architecture)?
 What are their names?
 
+rax - register a extended
+rbx - register b extended
+rcx - register c extended
+rdx - register d extended
+rbp - register base pointer (start of stack)
+rsp - register stack pointer (current location in stack, growing downwards)
+rsi - register source index (source for data copies)
+rdi - register destination index (destination for data copies)
+The registers added for 64-bit mode are named:
+
+r8 - register 8
+r9 - register 9
+r10 - register 10
+r11 - register 11
+r12 - register 12
+r13 - register 13
+r14 - register 14
+r15 - register 15
+
 
 25. What does the register %eip hold?
 	Program counter
